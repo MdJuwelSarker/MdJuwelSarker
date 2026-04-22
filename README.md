@@ -1,8 +1,8 @@
 # Md Juwel Ahmed Sarker
 
-**PhD Candidate, Education Policy** | University of Arkansas  
+**PhD Student, Education Policy** | University of Arkansas  
 🔬 School Finance · Resource Allocation · Educational Equity  
-📍 Fayetteville, AR | [CV](#) · [LinkedIn](https://linkedin.com/in/md-juwel-ahmed-sarker-17180333) · [Email](mailto:YOUR@EMAIL.edu)
+📍 Fayetteville, AR | [CV](#) · [LinkedIn](https://linkedin.com/in/md-juwel-ahmed-sarker-17180333) · [Email](sarker@uark.edu)
 
 ---
 
@@ -17,7 +17,7 @@ credible causal inference and machine learning methods.
 |---------|-------|---------|
 | 1 | When Small Districts Disappear: Fiscal Impact of Consolidation | Staggered DiD | Synthetic Control | Causal Forests |
 | 2 | The Leadership Multiplier: Fiscal Transmission & Superintendent Stability | DML, Heterogeneous Effects |
-| 3 | Impact of Salary Increases on Non-Teaching Personnel | DML, Prediction Policy |
+
 
 ---
 
