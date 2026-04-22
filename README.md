@@ -15,7 +15,7 @@ credible causal inference and machine learning methods.
 **Dissertation: Three Essays on School Finance in Arkansas**
 | Chapter | Title | Methods |
 |---------|-------|---------|
-| 1 | When Small Districts Disappear: Fiscal Impact of Consolidation | Synthetic Control, Causal Forests |
+| 1 | When Small Districts Disappear: Fiscal Impact of Consolidation | Staggered DiD | Synthetic Control | Causal Forests |
 | 2 | The Leadership Multiplier: Fiscal Transmission & Superintendent Stability | DML, Heterogeneous Effects |
 | 3 | Impact of Salary Increases on Non-Teaching Personnel | DML, Prediction Policy |
 
